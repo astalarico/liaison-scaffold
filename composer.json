@@ -1,0 +1,8 @@
+{
+    "autoload" : {
+        "psr-4" : {
+            "Liaison\\Scaffold\\Models\\" : "models/",
+            "Liaison\\Scaffold\\Controllers\\" : "controllers/"
+        }
+    }
+}
